@@ -36,16 +36,16 @@ def ticket_update(collection, choice):
         json.load(files)
 
     with open(SHOWS_FILE, "a") as file:
-        ticket = input("How many tickets did you get: ")
+        # ticket = int(input("How many tickets did you get: "))
         for item in collection:
             if item.get("artist") == choice:
                 item["tickets"]
                 if item["tickets"] == "SOLD OUT":
                     print("Sold Out")
                     make_choice(collection)
-                else:
-                    del item["tickets"]
-                    item.update(tickets - int(ticket))
+                # else:
+                #     del item["tickets"]
+                #     item.update("tickets" + (-ticket))
 
 
 def get_price(collection, choice):
