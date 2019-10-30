@@ -1,3 +1,8 @@
 name, show, code, tickets, price, tax, timestamp
 Sean Anthony, Phoebe Bridgers, pheb, 2, $30.00, $2.10, 2019-10-29 18:08:31.912470
 D�mi Anthony, Big Theif, jbbt, 4, $80.00, $5.60, 2019-10-29 18:09:50.089703
+
+Destiny Malone, Pedro The Lion, ptln, 2, $20, $0.14, 2019-10-30 14:58:39.110038
+Destiny Malone, Phoebe Bridgers, pheb, 1, $15, $0.07, 2019-10-30 15:11:40.514007
+Destiny Malone, Phoebe Bridgers, pheb, 2, $30, $0.14, 2019-10-30 15:55:39.699998
+Destiny Malone, Phoebe Bridgers, pheb, 2, $30, $0.14, 2019-10-30 16:10:56.055166
